@@ -1,1 +1,51 @@
 /*  your css code here. If applicable */
+#card{
+	width:80vw;
+	height:50vh;
+	border:1px solid black;
+}
+.pictorial-news-section{
+	text-align:center;
+	border-radius:10px;
+	padding:10px;
+	width:px;
+	background-color:white;
+	
+}
+img{ 
+	width:80px;
+	height:20%;
+	border:1px solid black;
+	margin:10%;
+	display:block;
+}
+.box{
+	border-radius:20px;
+	border:1px;
+	margin:10px;
+	text-align:center;
+	background-color:white;
+	padding:10px;
+}
+.header{
+	text-align:center;
+	font-family: Tahoma ;
+	background-color:rgb(54, 71, 65);  
+	border:1px solid black;
+	padding:10px;
+}
+#footer{
+	display:flex;
+	justify-content:center;
+	background-color:rgb(223, 230, 225);
+}
+.latest-news-section{
+	flex:1;
+	
+}
+.main-article{
+	flex:2;
+}
+.latest-news-section{
+	flex:;
+}
